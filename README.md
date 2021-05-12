@@ -72,3 +72,7 @@ Recommendations
     9.5	Challenge of Efficient Deep-RL Algorithm
    9.6	Challenge of Synergising Two Actions
 10.	Conclusion 
+
+If you could find this review is useful, please cite this work as 
+" M. Q. Mohammed, K. L. Chung and C. S. Chyi, "Review of Deep Reinforcement Learning-Based Object Grasping: Techniques, Open Challenges, and Recommendations," in IEEE Access, vol. 8, pp. 178450-178481, 2020, doi: 10.1109/ACCESS.2020.3027923." 
+
